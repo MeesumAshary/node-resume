@@ -1,0 +1,26 @@
+{
+    "name": "Meesum Ashary",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/meesumashary/",
+    "github": "meesumashary",
+    "email": "meesumashary@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}

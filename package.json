@@ -1,0 +1,14 @@
+{
+  "name": "MeesumAshary-resume",
+  "version": "1.0.0",
+  "description": "An NPM package that reads your resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+"bin": {
+    "meesum-ashary-resume-runner": "./index.js"
+  },
